@@ -23,3 +23,5 @@ Uygulamamızda butona bastıkça kelimeler tek tek değişerek sonda
  ('I', 'very', 'love', "learning","Flutter!" ) cümlesini tamamlıyor.
 iyi çalışmalar.
 
+
+<img src="info.jpeg" height="600em" />
